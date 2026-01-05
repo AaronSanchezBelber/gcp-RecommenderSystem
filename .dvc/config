@@ -1,0 +1,6 @@
+[core]
+    remote = ver2
+['remote "ver1"']
+    url = ../gs:
+['remote "ver2"']
+    url = gs://dvc-bucket-aaron

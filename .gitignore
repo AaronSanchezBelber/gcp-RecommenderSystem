@@ -8,3 +8,5 @@ artifacts/model_checkpoint/
 RecommerderSystem.egg-info/
 
 data/
+
+dvc-key.json

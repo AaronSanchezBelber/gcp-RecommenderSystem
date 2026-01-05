@@ -9,3 +9,4 @@ tensorflow
 comet_ml
 tensorflow
 dvc
+dvc-gs
