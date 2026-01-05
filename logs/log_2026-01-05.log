@@ -1,0 +1,35 @@
+2026-01-05 14:57:29,723 - INFO - DataProcessing Initialized
+2026-01-05 14:57:31,246 - INFO - Data loaded successfully for Data Processing
+2026-01-05 14:57:31,496 - INFO - Filtered users successfully...
+2026-01-05 14:57:33,004 - INFO - Scaling done for Processing
+2026-01-05 14:57:33,251 - INFO - Encoding done for Users and Anime
+2026-01-05 14:57:34,407 - INFO - Data split successfully
+2026-01-05 14:57:34,429 - INFO - user2user_encoded saved successfully
+2026-01-05 14:57:34,451 - INFO - user2user_decoded saved successfully
+2026-01-05 14:57:34,561 - INFO - anim2anime_encoded saved successfully
+2026-01-05 14:57:34,655 - INFO - anim2anime_decoded saved successfully
+2026-01-05 14:57:46,205 - INFO - All processed data saved successfully
+2026-01-05 14:58:09,182 - INFO - DF and SYNOPSIS_DF saved successfully
+2026-01-05 14:58:09,186 - INFO - Data Processing Pipeline ran successfully
+2026-01-05 16:52:25,854 - INFO - Data loaded sucesfully for Model Trainig
+2026-01-05 16:52:25,932 - INFO - Succesfully read the YAML file
+2026-01-05 16:52:25,932 - INFO - Loaded configuration from config.yaml
+2026-01-05 16:52:26,132 - INFO - Model created sucesfully....
+2026-01-05 16:55:43,084 - INFO - Model training Completedd.....
+2026-01-05 16:55:43,097 - ERROR - CustomException.__init__() missing 1 required positional argument: 'error_detail'
+2026-01-05 17:00:27,932 - INFO - Model Training & COMET ML initialized..
+2026-01-05 17:00:28,071 - INFO - Data loaded sucesfully for Model Trainig
+2026-01-05 17:00:28,129 - INFO - Succesfully read the YAML file
+2026-01-05 17:00:28,129 - INFO - Loaded configuration from config.yaml
+2026-01-05 17:00:28,406 - INFO - Model created sucesfully....
+2026-01-05 17:02:50,734 - INFO - ModelTraining initialized (NO comet_ml)
+2026-01-05 17:02:50,902 - INFO - Data loaded successfully for training
+2026-01-05 17:02:50,967 - INFO - Succesfully read the YAML file
+2026-01-05 17:02:50,968 - INFO - Loaded configuration from config.yaml
+2026-01-05 17:02:51,405 - INFO - Model created sucesfully....
+2026-01-05 17:06:02,706 - INFO - Model training completed successfully
+2026-01-05 17:06:02,718 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2026-01-05 17:06:03,017 - INFO - Model saved at C:\Users\Lenovo\Desktop\krish-udemy\mlops-recomenderSystem-2026\artifacts\model\model.h5
+2026-01-05 17:06:03,031 - INFO - Weights extracted for layer: user_embedding
+2026-01-05 17:06:03,067 - INFO - Weights extracted for layer: anime_embedding
+2026-01-05 17:06:03,101 - INFO - User & Anime weights saved successfully

@@ -1,0 +1,11 @@
+[33mcommit 0cbe03e7df177f989846ba95e683c23a9cafb865[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: AaronSanchezBelber <dataaaronsanchezbelber@gmail.com>
+Date:   Mon Jan 5 19:05:02 2026 +0100
+
+    Remove data directory from git tracking
+
+[33mcommit 98a2a2f7d93cd4c193e3fc4eeb8bbf9c6b1a1d01[m
+Author: AaronSanchezBelber <dataaaronsanchezbelber@gmail.com>
+Date:   Mon Jan 5 18:38:05 2026 +0100
+
+    Initialize Git and DVC
