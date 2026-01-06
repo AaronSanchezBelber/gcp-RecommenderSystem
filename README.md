@@ -25,3 +25,7 @@ habilitar
 google cloud registry
 google cloud artifacts
 kubernetes engine api
+
+una vez la ci-cd pipeline esta hecha vas a GcP y revisas:
+- Container registry -ml project (la imagen esta bien)
+- Kuberbets Engine - workflow- ml app- puedes mirar los puertos que estan corriendo - ENDPOINT
