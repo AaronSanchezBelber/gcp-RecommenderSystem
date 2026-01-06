@@ -19,3 +19,9 @@ python -m src.data_trainer.model_training
 
 git ls-files -z | xargs -0 du -h | sort -h
 (por si tienes problemas con el git por mter datos)
+
+GCP
+habilitar 
+google cloud registry
+google cloud artifacts
+kubernetes engine api
